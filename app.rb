@@ -1,0 +1,1 @@
+Le fichier app.rb va appeler les fichiers lib/event.rb et lib/user.rb. Bref c'est l'équivalent de la méthode perform 👌
